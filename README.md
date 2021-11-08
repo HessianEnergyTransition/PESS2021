@@ -1,6 +1,6 @@
 # Towards Low-Carbon Multi-Energy Systems: The Hessian Energy Transition (PESS2021)
 
-Welcome to our data repository! We host here the complete parameters of the model used for the study presented in out paper.
+Welcome to our data repository! We host here the complete parameters of the model used for the study presented in our paper.
 
 This repository contains:
 
