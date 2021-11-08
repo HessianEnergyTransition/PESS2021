@@ -4,7 +4,7 @@ Welcome to our data repository! We host here the complete parameters of the mode
 
 This repository contains:
 
-(1) An ["easy-to-read" excel file](/databaseHesse.xlsx) with all model parameters including sources and notes
+(1) An ["easy-to-read" Spreadsheet](/databaseHesse.xlsx) with all model parameters including sources and notes
 
 You can find a complete description of the model structure,  assumptions and validation results at the [Original Paper( Link TO DO)](https://www.google.de)
 
