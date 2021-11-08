@@ -6,7 +6,7 @@ This repository contains:
 
 (1) An ["easy-to-read" Spreadsheet](/databaseHesse.xlsx) with all model parameters including sources and notes
 
-You can find a complete description of the model structure,  assumptions and validation results at the [Original Paper( Link TO DO)](https://www.google.de)
+You can find a complete description of the model structure,  assumptions and validation results at the [Original Paper(Link TO DO)](https://www.google.de)
 
 ## Citing Our Work
 
