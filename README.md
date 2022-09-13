@@ -16,13 +16,13 @@ If you use this dataset in your research, please cite the original paper:
 
 For Bibtex you can use the following:
 
-   @INPROCEEDINGS{9735260,
-  author={Feng, Sizhang and Floeer, Leon and Goerzel, Felix and Joeckel, Dennis Michael and Barbosa, Julia and Steinke, Florian},
-  booktitle={PESS 2021; Power and Energy Student Summit}, 
-  title={Towards Low-Carbon Multi-Energy Systems: The Hessian Energy Transition}, 
-  year={2021},
-  pages={1-6},
-  }
+	@INPROCEEDINGS{9735260,
+	author={Feng, Sizhang and Floeer, Leon and Goerzel, Felix and Joeckel, Dennis Michael and Barbosa, Julia and Steinke, Florian},
+  	booktitle={PESS 2021; Power and Energy Student Summit}, 
+  	title={Towards Low-Carbon Multi-Energy Systems: The Hessian Energy Transition}, 
+ 	 year={2021},
+  	pages={1-6},
+  	}
 
 
 
